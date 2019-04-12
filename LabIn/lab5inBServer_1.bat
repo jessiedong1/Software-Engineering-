@@ -1,0 +1,1 @@
+java -cp .;ocsf.jar lab5inB.TestChatServer 12345 500
